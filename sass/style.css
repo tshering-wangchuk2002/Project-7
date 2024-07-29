@@ -288,7 +288,7 @@ header nav .sub_container .last button:hover {
 
 .users_section {
   padding: 105.75px 356.92px;
-  background-image: url("/image/user section bg.png");
+  background-image: url("../image/userbg.png");
 }
 .users_section .main_container h2 {
   text-align: center;
