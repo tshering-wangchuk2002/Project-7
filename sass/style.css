@@ -249,19 +249,19 @@ header nav .sub_container .last button:hover {
   border-radius: 5.29px;
 }
 .stories_section .sub_container_two .overall .sub_overall .main_items .sub_item .one {
-  background-image: url("/image/stories 1.png");
+  background-image: url("../image/stories1.png");
   background-size: cover;
 }
 .stories_section .sub_container_two .overall .sub_overall .main_items .sub_item .two {
-  background-image: url("/image/stories 2.png");
+  background-image: url("../image/stories2.png");
   background-size: cover;
 }
 .stories_section .sub_container_two .overall .sub_overall .main_items .sub_item .three {
-  background-image: url("/image/stories 3.png");
+  background-image: url("../image/stories3.png");
   background-size: cover;
 }
 .stories_section .sub_container_two .overall .sub_overall .main_items .sub_item .four {
-  background-image: url("/image/stories 4.png");
+  background-image: url("../image/stories4.png");
   background-size: cover;
 }
 .stories_section .sub_container_two .overall .sub_overall .main_items .sub_item .info {
