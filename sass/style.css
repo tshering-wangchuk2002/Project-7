@@ -48,14 +48,14 @@ header nav .sub_container .last button:hover {
   padding: 74.03px 105.75px 105.75px 105.75px;
 }
 .hero_section .main_container .heading .first {
-  color: #C026D3;
   font-weight: 800;
   font-size: 95.19px;
   line-height: 110%;
   text-align: center;
-}
-.hero_section .main_container .heading .first span {
-  color: #701A75;
+  background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
 }
 .hero_section .main_container .heading .last {
   margin-top: 31.73px;
@@ -126,13 +126,13 @@ header nav .sub_container .last button:hover {
 }
 .better_section .main_container .sub_container_one h2 {
   text-align: center;
-  color: #C026D3;
   font-size: 74.04px;
   font-weight: 800;
   line-height: 110%;
-}
-.better_section .main_container .sub_container_one h2 span {
-  color: #701A75;
+  background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
 }
 .better_section .main_container .sub_container_one p {
   margin-top: 31.73px;
@@ -179,13 +179,13 @@ header nav .sub_container .last button:hover {
 }
 .stories_section .sub_container_one h2 {
   text-align: center;
-  color: #C026D3;
   font-size: 74.04px;
   font-weight: 800;
   line-height: 110%;
-}
-.stories_section .sub_container_one h2 span {
-  color: #701A75;
+  background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
 }
 .stories_section .sub_container_one p {
   margin-top: 31.73px;
@@ -292,13 +292,13 @@ header nav .sub_container .last button:hover {
 }
 .users_section .main_container h2 {
   text-align: center;
-  color: #C026D3;
   font-size: 74.04px;
   font-weight: 800;
   line-height: 110%;
-}
-.users_section .main_container h2 span {
-  color: #701A75;
+  background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
 }
 .users_section .main_container .sub_container {
   margin-top: 105.75px;
@@ -353,13 +353,13 @@ header nav .sub_container .last button:hover {
 }
 .tools_section .main_container .heading h2 {
   text-align: center;
-  color: #C026D3;
   font-size: 74.04px;
   font-weight: 800;
   line-height: 110%;
-}
-.tools_section .main_container .heading h2 span {
-  color: #701A75;
+  background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
 }
 .tools_section .main_container .heading p {
   margin-top: 31.73px;
@@ -401,13 +401,13 @@ header nav .sub_container .last button:hover {
 }
 .questions_section .heading h2 {
   text-align: center;
-  color: #C026D3;
   font-size: 74.04px;
   font-weight: 800;
   line-height: 110%;
-}
-.questions_section .heading h2 span {
-  color: #701A75;
+  background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
 }
 .questions_section .heading p {
   margin-top: 31.73px;

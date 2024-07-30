@@ -51,7 +51,8 @@ header {
                     border-radius: 23.8px;
                     padding: 15.86px 37.02px;
                     transition: all 0.5s ease;
-                    &:hover{
+
+                    &:hover {
                         background-color: #FFFFFF;
                         color: #C026D3;
                     }
@@ -71,15 +72,15 @@ header {
     .main_container {
         .heading {
             .first {
-                color: #C026D3;
+                // color: #C026D3;
                 font-weight: 800;
                 font-size: 95.19px;
                 line-height: 110%;
                 text-align: center;
+                background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+                background-clip: text;
+                color: transparent;
 
-                span {
-                    color: #701A75;
-                }
             }
 
             .last {
@@ -128,7 +129,8 @@ header {
                     font-size: 31.73px;
                     line-height: 31.7px;
                     transition: all 0.5s ease;
-                    &:hover{
+
+                    &:hover {
                         background-color: #FFFFFF;
                         color: #C026D3;
                     }
@@ -157,14 +159,17 @@ header {
 
             h2 {
                 text-align: center;
-                color: #C026D3;
+                // color: #C026D3;
                 font-size: 74.04px;
                 font-weight: 800;
                 line-height: 110%;
 
-                span {
-                    color: #701A75;
-                }
+                // span {
+                //     color: #701A75;
+                // }
+                background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+    background-clip: text;
+    color: transparent;
             }
 
             p {
@@ -190,7 +195,8 @@ header {
                 line-height: 31.7px;
                 margin-top: 31.73px;
                 transition: all 0.5s ease;
-                &:hover{
+
+                &:hover {
                     color: #C026D3;
                     background-color: #FFFFFF;
                 }
@@ -221,14 +227,17 @@ header {
 
         h2 {
             text-align: center;
-            color: #C026D3;
+            // color: #C026D3;
             font-size: 74.04px;
             font-weight: 800;
             line-height: 110%;
 
-            span {
-                color: #701A75;
-            }
+            // span {
+            //     color: #701A75;
+            // }
+            background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+    background-clip: text;
+    color: transparent;
         }
 
         p {
@@ -254,7 +263,8 @@ header {
             line-height: 31.7px;
             margin-top: 31.73px;
             transition: all 0.5s ease;
-            &:hover{
+
+            &:hover {
                 background-color: #FFFFFF;
                 color: #C026D3;
             }
@@ -376,14 +386,17 @@ header {
         // border: 1px solid black;
         h2 {
             text-align: center;
-            color: #C026D3;
+            // color: #C026D3;
             font-size: 74.04px;
             font-weight: 800;
             line-height: 110%;
 
-            span {
-                color: #701A75;
-            }
+            // span {
+            //     color: #701A75;
+            // }
+            background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+    background-clip: text;
+    color: transparent;
         }
 
         .sub_container {
@@ -445,6 +458,7 @@ header {
         }
     }
 }
+
 // user section ends
 
 // tools section starts
@@ -455,14 +469,17 @@ header {
         .heading {
             h2 {
                 text-align: center;
-                color: #C026D3;
+                // color: #C026D3;
                 font-size: 74.04px;
                 font-weight: 800;
                 line-height: 110%;
 
-                span {
-                    color: #701A75;
-                }
+                // span {
+                //     color: #701A75;
+                // }
+                background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+    background-clip: text;
+    color: transparent;
             }
 
             p {
@@ -514,17 +531,21 @@ header {
 .questions_section {
     padding: 105.75px 105.65px;
     background-color: #F1F5F9;
+
     .heading {
         h2 {
             text-align: center;
-            color: #C026D3;
+            // color: #C026D3;
             font-size: 74.04px;
             font-weight: 800;
             line-height: 110%;
 
-            span {
-                color: #701A75;
-            }
+            // span {
+            //     color: #701A75;
+            // }
+            background: linear-gradient(90deg, #C026D3 0%, #701A75 100%);
+    background-clip: text;
+    color: transparent;
         }
 
         p {
@@ -543,6 +564,7 @@ header {
         margin-top: 105.75px;
 
         .main_item {
+
             // border: 1px solid black;
             // display: flex;
             // flex-direction: column;
@@ -553,8 +575,10 @@ header {
                 margin-bottom: 31.72px;
                 border-radius: 13.22px;
                 box-shadow: 0px 13.22px 19.83px -3.97px rgba(0, 0, 0, 10%);
+
                 h2 {
                     border-radius: 13.22px;
+
                     button {
                         padding: 43.67px 42.31px;
                         font-weight: 500;
@@ -568,20 +592,24 @@ header {
         }
     }
 }
+
 // question section ends
 
 // footer starts
-footer{
+footer {
     padding: 63.46px 105.77px 0px 105.77px;
-    .main_container{
+
+    .main_container {
         display: flex;
         column-gap: 63.46px;
         border-bottom: 1.32px solid #475569;
         padding-bottom: 63.46px;
-        .item{
+
+        .item {
             width: 229.16px;
+
             // border: 1px solid black;
-            h5{
+            h5 {
                 font-weight: 500;
                 font-size: 21.15px;
                 line-height: 110%;
@@ -589,12 +617,14 @@ footer{
                 // border: 1px solid black;
                 padding: 10.58px 0px;
             }
-            ul{
+
+            ul {
                 list-style: none;
                 padding-left: 0px;
+
                 // margin-top: 15.87px;
-                li{
-                    a{
+                li {
+                    a {
                         text-decoration: none;
                         font-weight: 400;
                         font-size: 21.15px;
@@ -607,22 +637,26 @@ footer{
             }
         }
     }
-    .sub_container{
+
+    .sub_container {
         display: flex;
         justify-content: space-between;
         align-items: center;
         padding: 32.6px 0px;
-        .one{
-            p{
+
+        .one {
+            p {
                 font-weight: 500;
                 font-size: 26.44px;
                 line-height: 110%;
                 color: #0F172A;
                 margin-bottom: 0px;
-                .first{
+
+                .first {
                     color: #86198F;
                 }
-                .last{
+
+                .last {
                     font-weight: 400;
                     font-size: 21.15px;
                     line-height: 140%;
@@ -630,10 +664,12 @@ footer{
                 }
             }
         }
-        .two{
+
+        .two {
             display: flex;
             column-gap: 21.15px;
         }
     }
 }
+
 // footer ends
